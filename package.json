@@ -1,0 +1,23 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "Api stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkpale/first-api.git"
+  },
+  "keywords": [
+    "API",
+    "zubi"
+  ],
+  "author": "Praveen Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkpale/first-api/issues"
+  },
+  "homepage": "https://github.com/pkpale/first-api#readme"
+}
